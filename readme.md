@@ -1,6 +1,6 @@
 # Crypto Subreddits CLI
 
-Crypto Subreddits CLI lets you track cryptocurrency subreddits on the command line.  It uses the coooins.com API.
+Crypto Subreddits CLI lets you track cryptocurrency subreddits on the command line.  It uses the [Coooins.com](https://coooins.com) API.
 
 ![Crypto Subreddits CLI](https://i.imgur.com/9iQkEas.png)
 
