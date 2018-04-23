@@ -10,13 +10,15 @@
     "request": "^2.83.0"
   },
   "scripts": {
+		"start": "node index.js",
+		"crypto-subreddits-cli": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/coooins/crypto-subreddits-cli.git"
   },
-  "author": "Coooins",
+  "author": "coooins",
   "bugs": {
     "url": "https://github.com/coooins/crypto-subreddits-cli/issues"
   },
