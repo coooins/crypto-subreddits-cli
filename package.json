@@ -1,6 +1,6 @@
 {
   "name": "crypto-subreddits-cli",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Track Cryptocurrency Subreddits On The Command Line",
   "main": "index.js",
   "license": "MIT",
@@ -10,9 +10,11 @@
     "request": "^2.83.0"
   },
   "scripts": {
-		"start": "node index.js",
-		"crypto-subreddits-cli": "node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "subreddits": "./bin/global.js"
   },
   "repository": {
     "type": "git",
