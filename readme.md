@@ -31,7 +31,7 @@ Crypto Subreddits CLI lets you track cryptocurrency subreddits on the command li
 1. Run
 
     ```
-    crypto-subreddits-cli
+    subreddits
     ```
 
 
